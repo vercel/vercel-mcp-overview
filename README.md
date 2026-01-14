@@ -1,2 +1,11 @@
-# vercel-mcp-overview
-Public overview of Vercel's MCP server for the github.com/mcp directory. Full documentation at https://vercel.com/docs/mcp/vercel-mcp
+# Vercel MCP
+
+Vercel's official MCP server gives AI tools secure access to your Vercel projects.
+
+**[Documentation](https://vercel.com/docs/mcp/vercel-mcp)** | **[Tools Reference](https://vercel.com/docs/mcp/vercel-mcp/tools)**
+
+## Quick Start
+
+Connect to `https://mcp.vercel.com` in your MCP client.
+
+See the [documentation](https://vercel.com/docs/mcp/vercel-mcp) for setup instructions for Claude, ChatGPT, Cursor, VS Code, and other supported clients.
